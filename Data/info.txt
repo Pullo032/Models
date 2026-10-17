@@ -1,0 +1,14 @@
+student_id                 1
+age                       17
+gender                  male
+course               diploma
+study_hours             2.78
+class_attendance        92.9
+internet_access          yes
+sleep_hours              7.4
+sleep_quality           poor
+study_method        coaching
+facility_rating          low
+exam_difficulty         hard
+exam_score              58.9
+Name: 0, dtype: object
